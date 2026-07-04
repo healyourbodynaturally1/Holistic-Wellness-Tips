@@ -39,7 +39,7 @@ app.get('/webhook', (req, res) => {
 
 app.post('/webhook', async (req, res) => {
   const body = req.body;
-
+console.log('🔍 WEBHOOK RECEIVED:', JSON.stringify(body, null, 2));
   if (body.object === 'page') {
     for (const entry of body.entry) {
       const changes = entry.changes;
