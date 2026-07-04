@@ -1,4 +1,4 @@
-Complete Wellness Guide 🌿
+Complete Wellness Guide 🌿 
 Welcome! This guide will help you build sustainable wellness habits through nutrition, mindful 
 movement, and daily practices that support your body naturally.
 Daily Wellness Routine 🌿
